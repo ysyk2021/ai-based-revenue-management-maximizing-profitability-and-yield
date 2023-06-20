@@ -1,4 +1,4 @@
-Chapter X: AI-Based Revenue Management Techniques and Strategies
+AI-Based Revenue Management Techniques and Strategies
 ================================================================
 
 AI-based revenue management techniques and strategies involve leveraging artificial intelligence to optimize pricing, inventory, and distribution strategies. In this chapter, we will provide an overview of some of the key AI-based revenue management techniques and strategies.

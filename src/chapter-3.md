@@ -1,4 +1,4 @@
-Chapter X: Artificial Intelligence in Revenue Management
+Artificial Intelligence in Revenue Management
 ========================================================
 
 Artificial intelligence (AI) has revolutionized the way businesses approach revenue management. By leveraging machine learning algorithms and predictive analytics, AI-based solutions can help businesses optimize pricing, inventory, and distribution strategies to maximize revenue and profitability. In this chapter, we will discuss the types of AI used in revenue management, their advantages and limitations, and case studies on their use.
