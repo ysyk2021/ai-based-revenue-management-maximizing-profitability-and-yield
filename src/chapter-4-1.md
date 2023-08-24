@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Revenue Management
-===============================================================================================================================
 
 Data collection and analysis are critical components of revenue management in today's data-driven business landscape. In this chapter, we will provide an overview of data collection and analysis for revenue management and discuss best practices for leveraging data to drive profitability and yield.
 

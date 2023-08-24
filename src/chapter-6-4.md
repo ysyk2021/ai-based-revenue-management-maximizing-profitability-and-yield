@@ -1,5 +1,3 @@
-Employee Education and Engagement
-===========================================================================================
 
 The successful implementation of AI-based revenue management requires more than just the right technology and data. It also requires employee education and engagement to ensure that AI-based solutions are adopted effectively and integrated into daily operations. In this chapter, we will discuss best practices for educating and engaging employees in AI-based revenue management.
 

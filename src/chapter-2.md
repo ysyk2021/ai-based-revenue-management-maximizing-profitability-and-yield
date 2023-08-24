@@ -1,5 +1,3 @@
-Understanding Revenue Management
-===========================================
 
 Revenue management is the process of optimizing pricing, inventory, and distribution strategies to maximize revenue and profitability. In this chapter, we will provide an overview of revenue management, traditional approaches to revenue management, and the limitations and challenges associated with these approaches.
 

@@ -1,5 +1,3 @@
-Capacity Control and Allocation
-=================================================================================================
 
 Capacity control and allocation involves optimizing inventory levels to meet demand while minimizing waste or overstocking. In revenue management, effective capacity control and allocation can help businesses minimize costs and increase revenue and profitability. AI-based solutions can help businesses analyze data and make real-time decisions about inventory levels and allocation to optimize revenue and profitability. In this chapter, we will discuss the importance of capacity control and allocation in revenue management and how AI-based solutions can be used to optimize these strategies.
 

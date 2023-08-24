@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-======================================================================================
 
 Traditional revenue management approaches are often based on simple rules-based algorithms that rely on historical data and assumptions about customer behavior. While these approaches can be effective to a certain extent, they also have several limitations and challenges. In this chapter, we will explore some of the key limitations and challenges of traditional revenue management approaches.
 

@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-====================================================================================
 
 As businesses increasingly adopt artificial intelligence (AI) in revenue management, it is imperative to consider the regulatory and ethical implications of such implementations. This chapter explores some of the key considerations that businesses should take into account when implementing AI-powered revenue management systems.
 

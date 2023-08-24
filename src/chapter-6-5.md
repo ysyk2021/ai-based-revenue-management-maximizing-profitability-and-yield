@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-================================================================================================
 
 The implementation of AI-based revenue management can provide significant benefits for businesses, including increased revenue and profitability. However, it is essential to consider business models and cost-effectiveness when implementing AI-based solutions. In this chapter, we will discuss best practices for ensuring that AI-based revenue management is aligned with business models and is cost-effective.
 

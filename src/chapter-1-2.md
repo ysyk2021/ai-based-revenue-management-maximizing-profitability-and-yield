@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Applications in Revenue Management
-========================================================================================================
 
 Artificial intelligence (AI) is revolutionizing the field of revenue management, providing businesses with powerful tools for optimizing pricing, inventory, and distribution strategies. In this chapter, we will provide an overview of AI and its applications in revenue management.
 

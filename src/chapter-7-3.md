@@ -1,5 +1,3 @@
-Implications for the Future of Maximizing Profitability and Yield
-==============================================================================================================
 
 The future of maximizing profitability and yield through revenue management is closely tied to the development and implementation of AI-based solutions. In this chapter, we will discuss the implications of AI-based revenue management for the future of maximizing profitability and yield.
 

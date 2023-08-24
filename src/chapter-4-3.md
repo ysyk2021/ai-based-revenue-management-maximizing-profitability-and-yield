@@ -1,5 +1,3 @@
-Competitive and Industry Data
-==================================================================================
 
 Effective revenue management requires businesses to collect and analyze a wide range of data, including both internal and external data. In this chapter, we will focus on the importance of collecting and analyzing competitive and industry data.
 

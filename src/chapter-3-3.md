@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Revenue Management
-=============================================================================================================
 
 Artificial intelligence is revolutionizing the field of revenue management, providing businesses with powerful tools for optimizing pricing, inventory, and distribution strategies. In this chapter, we will examine several case studies that demonstrate the effectiveness of AI-based revenue management solutions.
 

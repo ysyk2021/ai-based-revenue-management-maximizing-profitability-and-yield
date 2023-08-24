@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Revenue Management
-===================================================================================================
 
 Implementing AI-based revenue management systems can be a complex and challenging process. This chapter provides an overview of the key steps involved in implementing such systems.
 

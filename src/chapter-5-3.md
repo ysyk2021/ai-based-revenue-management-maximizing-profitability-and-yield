@@ -1,5 +1,3 @@
-Dynamic Pricing and Personalization
-=====================================================================================================
 
 AI-based revenue management techniques and strategies are transforming the way businesses approach pricing and inventory management. In this chapter, we will discuss two key techniques -- dynamic pricing and personalization -- that are commonly used in AI-based revenue management.
 

@@ -1,5 +1,3 @@
-Data Collection and Analysis for Revenue Management
-==============================================================
 
 Effective data collection and analysis is critical for optimizing pricing, inventory, and distribution strategies in revenue management. In this chapter, we will provide an overview of the different types of data that are important for revenue management, including market and customer data, competitive and industry data, inventory and pricing data, and regulatory and compliance data.
 

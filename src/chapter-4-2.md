@@ -1,5 +1,3 @@
-Market and Customer Data
-========================================================================================
 
 In the previous chapter, we discussed the importance of data collection and analysis for revenue management. In this chapter, we will focus specifically on the types of market and customer data that are critical for revenue optimization.
 
