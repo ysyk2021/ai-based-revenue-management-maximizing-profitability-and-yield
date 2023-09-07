@@ -10,3 +10,7 @@ The following chapters will dive deeper into specific topics related to AI-based
 Overall, this book aims to provide a comprehensive guide to AI-based revenue management. Whether you are a revenue manager looking to enhance your skills or a business owner seeking to improve your bottom line, this book will provide you with the knowledge and tools needed to succeed in today's competitive marketplace.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
